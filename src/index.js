@@ -16,6 +16,8 @@ const routes = {
   "cloudsmith.remote-cat.cn": "https://docker.cloudsmith.io",
   "ecr.remote-cat.cn": "https://public.ecr.aws",
 
+  // others
+  "wiki.remote-cat.cn": "https://en.wikipedia.org",
   // staging
   "docker-staging.remote-cat.cn": dockerHub,
 };
